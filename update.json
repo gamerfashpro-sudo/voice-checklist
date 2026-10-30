@@ -1,7 +1,7 @@
 {
-  "version": "0.6.1",
-  "file": "app-0.6.1.asar",
-  "sha256": "abb4e8ef7ea46241e59e18b1955a61030c0653041046ac7ec98085b3e34d4307",
-  "notes": "Озвучка Google, прокрутка настроек, ошибки MSFS видны",
+  "version": "0.6.2",
+  "file": "app-0.6.2.asar",
+  "sha256": "d0b7c5f7a74aac82eb2a41d65b5aa958bdb63557c66c750b910655914c426aa9",
+  "notes": "Исправлена связь с MSFS, убран Vosk, понятные ошибки голоса",
   "baseMin": 1
 }
