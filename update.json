@@ -1,7 +1,7 @@
 {
-  "version": "0.6.0",
-  "file": "app-0.6.0.asar",
-  "sha256": "36916934b787195ea1cdfe76776344abf507619ae21a577f489ddac8430ae1a2",
-  "notes": "Голос Vosk (офлайн) и выбор микрофона, исправлена связь с MSFS",
+  "version": "0.6.1",
+  "file": "app-0.6.1.asar",
+  "sha256": "abb4e8ef7ea46241e59e18b1955a61030c0653041046ac7ec98085b3e34d4307",
+  "notes": "Озвучка Google, прокрутка настроек, ошибки MSFS видны",
   "baseMin": 1
 }
