@@ -1,7 +1,7 @@
 {
-  "version": "0.6.3",
-  "file": "app-0.6.3.asar",
-  "sha256": "8f02f90a4b6116d559fd54fe80938ee93d56a33d0fb27564a064ae29bd09af45",
-  "notes": "Распознавание речи через Windows 10/11 (WinRT)",
+  "version": "0.6.4",
+  "file": "app-0.6.4.asar",
+  "sha256": "85f1e2ebee62a8df8a340be6179773c21d5131d237602c68fc23ba1bf5e336f2",
+  "notes": "Ошибки голоса показываются целиком",
   "baseMin": 1
 }
