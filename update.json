@@ -1,7 +1,7 @@
 {
-  "version": "0.6.4",
-  "file": "app-0.6.4.asar",
-  "sha256": "85f1e2ebee62a8df8a340be6179773c21d5131d237602c68fc23ba1bf5e336f2",
-  "notes": "Ошибки голоса показываются целиком",
+  "version": "0.6.5",
+  "file": "app-0.6.5.asar",
+  "sha256": "a272703380c4fd79f50d73a3c47adced72dabdbef8adddb79b6601bfe8a02dae",
+  "notes": "Распознавание en-GB, кнопка копирования",
   "baseMin": 1
 }
