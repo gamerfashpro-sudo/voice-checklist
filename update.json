@@ -1,7 +1,7 @@
 {
-  "version": "0.6.5",
-  "file": "app-0.6.5.asar",
-  "sha256": "a272703380c4fd79f50d73a3c47adced72dabdbef8adddb79b6601bfe8a02dae",
-  "notes": "Распознавание en-GB, кнопка копирования",
+  "version": "0.6.6",
+  "file": "app-0.6.6.asar",
+  "sha256": "149296549721c4a1b1143700ed272e17219277a5862cc830cb70ba77f63994cf",
+  "notes": "Исправлен сбой EPIPE при остановке голоса",
   "baseMin": 1
 }
