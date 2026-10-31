@@ -1,7 +1,7 @@
 {
-  "version": "0.6.2",
-  "file": "app-0.6.2.asar",
-  "sha256": "d0b7c5f7a74aac82eb2a41d65b5aa958bdb63557c66c750b910655914c426aa9",
-  "notes": "Исправлена связь с MSFS, убран Vosk, понятные ошибки голоса",
+  "version": "0.6.3",
+  "file": "app-0.6.3.asar",
+  "sha256": "8f02f90a4b6116d559fd54fe80938ee93d56a33d0fb27564a064ae29bd09af45",
+  "notes": "Распознавание речи через Windows 10/11 (WinRT)",
   "baseMin": 1
 }
